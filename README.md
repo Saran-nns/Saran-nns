@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](multiplot_.gif)
-![](src = "https://drive.google.com/uc?export=view&id=1C5BaTiLVTthR_CLhyqLF5Pl5P0CC-5AO" width="200" height="400" )
+<img src="https://drive.google.com/uc?export=view&id=1C5BaTiLVTthR_CLhyqLF5Pl5P0CC-5AO" width="100" height="100"> 
 <!--
 **Saran-nns/Saran-nns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
