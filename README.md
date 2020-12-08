@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](multiplot_.gif)
-<img align="center" src="connectivity.gif" width="1000" height="250"/>
+<img align="center" src="connectivity.gif" width="500" height="400"/>
 <!--
 **Saran-nns/Saran-nns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
